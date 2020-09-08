@@ -1,0 +1,7 @@
+pymongo
+requests
+flask
+flask_cors
+bs4
+geopy
+lxml

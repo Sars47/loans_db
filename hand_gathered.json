@@ -1,0 +1,1081 @@
+[
+  {
+    "name": "payday money centers",
+    "website": "https://paydaymoneycenters.com",
+    "groups": ["cfsp"],
+    "aliases": [],
+    "locator": "https://paydaymoneycenters.com/locations/"
+  },
+  {
+    "name": "Express Check Advance",
+    "website": "https://www.expresscheckadvance.com/",
+    "groups": [],
+    "aliases": [],
+    "locator": "https://www.expresscheckadvance.com/locations"
+  },
+  {
+    "name": "LendUp",
+    "website": "https://www.lendup.com/",
+    "groups": [],
+    "aliases": [],
+    "apr": 458.86
+  },
+  {
+    "name": "Cash America",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Enova",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "MoneyMutual",
+    "website": "",
+    "groups": [],
+    "aliases": ["Western Marketing Studios LLC"]
+  },
+  {
+    "name": "Castle Payday",
+    "website": "",
+    "groups": [],
+    "aliases": ["Red Rock Tribal Lending"]
+  },
+  {
+    "name": "AMG Services",
+    "website": "",
+    "groups": [],
+    "aliases": ["CLK Management"]
+  },
+  {
+    "name": "Cash America International Inc.",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Global Payday Loan LLC",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "CMG Group LLC",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "SSM Group LLC",
+    "website": "",
+    "groups": [],
+    "aliases": ["Summit Group LLC"]
+  },
+  {
+    "name": "EZ Loan Protection",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Funds Direct",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "ACE Cash Express",
+    "website": "https://www.acecashexpress.com/",
+    "groups": ["cfsp"],
+    "aliases": ["JLL Partners", "NetSpend"]
+  },
+  {
+    "name": "SCS Processing LLC",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Lenders International",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Blue Trust Loans",
+    "website": "https://www.bluetrustloans.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Cash USA",
+    "website": "http://cashusa.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Advance America",
+    "website": "https://www.advanceamerica.net/",
+    "groups": [],
+    "locator": "https://www.advanceamerica.net/store-locations",
+    "aliases": ["advance america cash advance centers, inc"],
+    "apr": 391.07
+  },
+  {
+    "name": "Transpacific Currency Services Inc",
+    "website": "https://www.bloomberg.com/profile/company/0484834D:US",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Amscot Financial",
+    "website": "https://www.amscot.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "Cash Express LLC",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Online Lenders Alliance",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Checksmart Financial",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Financial Service Centers of America",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "DMP Investments",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "J&J Management Services",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Harpeth Financial Services",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "PLS Financial Services",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Community Financial Services Assn",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "QC Holdings",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Grupo Salinas",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Select Management Resource",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Check into cash",
+    "website": "https://checkintocash.com/store-locator/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "my pay day loan",
+    "website": "https://www.mypaydayloan.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "cash usa",
+    "website": "https://www.cashusa.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "opploans",
+    "website": "https://discover.opploans.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "maxlend",
+    "website": "https://www.maxlend.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "money key",
+    "website": "https://www.moneykey.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "Loan by Phone",
+    "website": "https://application.loanbyphone.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Jora Loans",
+    "website": "https://www.direct-payday.com/go/jora/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Echo Credit",
+    "website": "https://www.echocredit.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "cash store",
+    "website": "https://www.cashstore.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "online loan network",
+    "website": "https://www.onlineloannetwork.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "24/7 loan pros",
+    "website": "https://www.247loanpros.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Net credit",
+    "website": "https://www.netcredit.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "cash central",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "payoff",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "money lion",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "check city",
+    "website": "https://www.checkcity.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "preferred cash",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "cash advance",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "1 hour loans direct",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "national payday",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "payday loan today",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "cash net usa",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "lending club",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "a z cash inc",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "accelitas",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "advance financial",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "advance payday plus",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "all trust networks",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "alternative payments international",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "ambir technology inc",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "answers, etc",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "camper's corner check cashing, inc",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "capital retail solutions, inc",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "cash max, llc",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "cash now, etc",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "cashback LLC",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": ["Cashback Loans"]
+  },
+  {
+    "name": "check 2 cash",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "check cashing & loans, llc",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "check center",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "checkfreepay corporation",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "checkmate",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "Community choice financial",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "continental currency services, inc",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "curo financial technology corp",
+    "website": "https://curo.com/",
+    "groups": ["cfsaa", "cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "digital currency services",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "fgib",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "graham-newman",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "graystar services",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "hypur",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "kern insurance",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "leadsmarker",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "loan center",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "loan me",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "loanmart",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "marin check cashing, inc",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "mb financial bank",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "money service centers of hawaii, inc",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "moneytree inc",
+    "website": "https://www.moneytreeinc.com/",
+    "groups": ["cfsaa", "cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "netspend corporation",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "one click marketing, llc",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "prepaid ventures",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": ["nexscard"]
+  },
+  {
+    "name": "reliafund",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "remedy bail bonds",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "repay realtime electronic payments",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "ria financial",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "secure check cashing",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "su casa de cambio cesar chavez, inc",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "surety bank",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "the check cashing place, inc",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "the compliance organization",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "title max",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "trust science",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "usa checks cashed",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": ["ms mgmt"]
+  },
+  {
+    "name": "vergent lms",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "western union",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "westwood check cashing",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "windsor quick funding car title loans",
+    "website": "",
+    "groups": ["cfsp"],
+    "aliases": []
+  },
+  {
+    "name": "A - 1 cash advance",
+    "website": "",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "cash depot of ms, lcc",
+    "website": "",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "cash factory USA",
+    "website": "https://cashfactoryusa.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "cash master",
+    "website": "",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "cash 1",
+    "website": "http://www.cash1today.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "cash 2-u loans",
+    "website": "http://www.cash2uloans.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "Check into cash, inc",
+    "website": "https://checkintocash.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "check on hold",
+    "website": "https://www.checkonholdinc.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "cmm, llc",
+    "website": "http://cashtyme.com/",
+    "groups": ["cfsaa"],
+    "aliases": ["cash tyme"]
+  },
+  {
+    "name": "financial services center of ohio",
+    "website": "",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "harpeth financial services",
+    "website": "http://www.af247.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "heritage cash advance",
+    "website": "http://www.heritagecashadvance.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "ivy funding co. llc",
+    "website": "https://ivyfunding.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "jd finance inc.",
+    "website": "",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "lending bear",
+    "website": "https://www.lendingbear.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "main street personal finance",
+    "website": "http://www.approvedcashadvance.com/",
+    "groups": ["cfsaa"],
+    "aliases": ["acac"]
+  },
+  {
+    "name": "ncp finance",
+    "website": "http://ncpfinance.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "ph financial services",
+    "website": "http://www.flexiblefinanceloans.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "power finance texas",
+    "website": "http://www.powerfinancetexas.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "qc holdings",
+    "website": "https://www.qcholdings.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "speedee cash management co.  inc.",
+    "website": "http://www.speedeecash.net/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "speedy cash, inc.",
+    "website": "https://www.speedycash.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "usa cash services",
+    "website": "http://www.usacashservices.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "westrock financial ltd",
+    "website": "https://www.mycanadapayday.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "xtracash, llc",
+    "website": "https://www.xtracashllc.com/",
+    "groups": ["cfsaa"],
+    "aliases": []
+  },
+  {
+    "name": "acquire interactive",
+    "website": "https://www.acquireinteractive.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "advantage ach",
+    "website": "https://advantageach.com/AdvantageACH/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Ballard Spahr LLP",
+    "website": "https://www.ballardspahr.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Bastion Funding TX LLC",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "bradley arant boult cummings",
+    "website": "https://www.bradley.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "clarity services",
+    "website": "https://www.clarityservices.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "corelogic teletrak",
+    "website": "https://www.corelogic.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "datax",
+    "website": "http://dataxltd.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "debt management partners, llc",
+    "website": "https://dmpcollections.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "debtTrader",
+    "website": "http://www.debttrader.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "eCash software",
+    "website": "http://www.ecashsoftware.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Efectivo LLC",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Elliot Davis Decosimo",
+    "website": "https://www.elliottdavis.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "EPCVIP",
+    "website": "https://www.epcvip.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "EPIC Loan Systems",
+    "website": "http://www.epicloansystems.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Equifax",
+    "website": "https://www.equifax.com/personal/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Factor Trust",
+    "website": "https://ws.factortrust.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Fix Media",
+    "website": "http://fixmediagroup.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Hudson Cook LLP",
+    "website": "https://www.hudsoncook.com/index.cfm",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Integrity Funding, LP",
+    "website": "http://integrityfunding.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Intro Online System",
+    "website": "",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Jefferies, LLC",
+    "website": "http://www.jefferies.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Leads Market",
+    "website": "https://www.leadsmarket.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Leads Zoom LLC",
+    "website": "https://www.leadszoom.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Loan Payment Pro",
+    "website": "https://loanpaymentpro.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Max Decisions, Inc.",
+    "website": "https://www.maxdecision.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "McGlinchey Stafford",
+    "website": "http://www.mcglinchey.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Merchant Boost",
+    "website": "https://www.merchantboost.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "MicroBilt Corp",
+    "website": "http://www.microbilt.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "NetSpend Corporation",
+    "website": "https://www.netspend.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Payliance",
+    "website": "https://payliance.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Phoenix Asset Group",
+    "website": "https://www.phoenixassetgroup.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "QFund Inc",
+    "website": "http://www.qfund.net/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Redpoint Capital",
+    "website": "http://www.dundoncapitalpartners.com/redpointcapital/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "REPAY",
+    "website": "https://www.repay.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Republic Bank of Chicago",
+    "website": "https://republicebank.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Solution By Text",
+    "website": "https://www.solutionsbytext.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Sourcelink",
+    "website": "http://www.sourcelink.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Stephencs Inc",
+    "website": "https://www.stephens.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "http://storefrontlender.com dba dot818",
+    "website": "https://dot818.com/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "VP Compliance Services",
+    "website": "https://vpcs.biz/",
+    "groups": [],
+    "aliases": []
+  },
+  {
+    "name": "Zero Parallel",
+    "website": "https://www.zeroparallel.com/",
+    "groups": [],
+    "aliases": []
+  }
+ ]
