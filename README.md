@@ -18,3 +18,12 @@ Some data on APRs and membership in lobbying groups such as [Community Financial
 2. Gather data on services/products by location - this data is available for most, but we aren't scrapping it yet
 3. Programmatically update the hand-gathered data
 4. Deploy a visualization service for people to interact with - likely to include a map of locations - open to other ideas here
+
+# Some very quick sample visualizations from the data so far
+
+### A map of all the locations in the country
+![All over the country](https://github.com/Sars47/loans_db/blob/master/assets/global_markers.png)
+### The same locations but as a heat map for easier visualization
+![Heatmap of the country](https://github.com/Sars47/loans_db/blob/master/assets/heatmap.png)
+### A map of all the locations around Washington, DC
+![Image of DC short term loan locations](https://github.com/Sars47/loans_db/blob/master/assets/dc.png)
